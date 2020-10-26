@@ -1,0 +1,4 @@
+
+
+class AbnormalResponseError(Exception):
+    pass
