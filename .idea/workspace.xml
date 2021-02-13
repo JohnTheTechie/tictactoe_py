@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c880967-26d4-4252-b593-ba06ca5fd14b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/components/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/controllers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/listeners.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/test_board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/test_controllers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tictactoe_py.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tictactoe_py.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interfaces.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/master.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp/comm_queues.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp/host.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp/network_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcp/peer_identifiction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tcpagent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/userinterface.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jftghHdTx9ylvNzW1A0qknZFb0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\tictactoe_py\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_board.TestBoard">
+    <configuration name="Unittests for test_board.TestBoard" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="tictactoe_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/components" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_board.TestBoard&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_board.TestBoard.test_board" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="tictactoe_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/components" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_board.TestBoard.test_board&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_board.TestBoard.test_player" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="tictactoe_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/components" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_board.TestBoard.test_player&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_board.TestBoard.test_player_controller" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="tictactoe_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/components" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_board.TestBoard.test_player_controller&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_controllers.TestSimpleCoinShuffler" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="tictactoe_py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/components" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_controllers.TestSimpleCoinShuffler&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_board.TestBoard" />
+        <item itemvalue="Python tests.Unittests for test_board.TestBoard.test_board" />
+        <item itemvalue="Python tests.Unittests for test_board.TestBoard.test_player_controller" />
+        <item itemvalue="Python tests.Unittests for test_board.TestBoard.test_player" />
+        <item itemvalue="Python tests.Unittests for test_controllers.TestSimpleCoinShuffler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c880967-26d4-4252-b593-ba06ca5fd14b" name="Default Changelist" comment="" />
+      <created>1600184323563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600184323563</updated>
+    </task>
+    <task id="LOCAL-00001" summary="comments added for peer_identification module">
+      <created>1603902298270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603902298270</updated>
+    </task>
+    <task id="LOCAL-00002" summary="communication queues created">
+      <created>1604249324271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604249324271</updated>
+    </task>
+    <task id="LOCAL-00003" summary="communication queues created">
+      <created>1604249402912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604249402912</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="comments added for peer_identification module" />
+    <MESSAGE value="communication queues created" />
+    <option name="LAST_COMMIT_MESSAGE" value="communication queues created" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2685" y="295" key="#com.intellij.ide.util.MemberChooser" timestamp="1613231265700">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2685" y="295" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231265700" />
+    <state width="1630" height="357" key="GridCell.Tab.0.bottom" timestamp="1613231696174">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1630" height="357" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231696174" />
+    <state width="1630" height="357" key="GridCell.Tab.0.center" timestamp="1613231696174">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1630" height="357" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231696174" />
+    <state width="1630" height="357" key="GridCell.Tab.0.left" timestamp="1613231696174">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1630" height="357" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231696174" />
+    <state width="1630" height="357" key="GridCell.Tab.0.right" timestamp="1613231696174">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1630" height="357" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231696174" />
+    <state width="949" height="386" key="GridCell.Tab.1.bottom" timestamp="1613231443037">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="949" height="386" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231443037" />
+    <state width="949" height="386" key="GridCell.Tab.1.center" timestamp="1613231443037">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="949" height="386" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231443037" />
+    <state width="949" height="386" key="GridCell.Tab.1.left" timestamp="1613231443037">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="949" height="386" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231443037" />
+    <state width="949" height="386" key="GridCell.Tab.1.right" timestamp="1613231443037">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="949" height="386" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231443037" />
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1613055898560">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613055898560" />
+  </component>
+</project>

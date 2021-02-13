@@ -1,4 +1,5 @@
-import board
+from components import board
+
 
 class GameGuiInterface:
 
