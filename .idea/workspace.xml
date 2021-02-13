@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8c880967-26d4-4252-b593-ba06ca5fd14b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/board.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/controllers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/listeners.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/test_board.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/test_controllers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tictactoe_py.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tictactoe_py.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/board.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interfaces.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/master.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcp/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcp/comm_queues.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcp/exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcp/host.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcp/misc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcp/network_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcp/peer_identifiction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcpagent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/userinterface.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/listeners.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/listeners.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +174,17 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comments added for peer_identification module" />
     <MESSAGE value="communication queues created" />
@@ -186,22 +195,22 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2685" y="295" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231265700" />
-    <state width="1630" height="357" key="GridCell.Tab.0.bottom" timestamp="1613231696174">
+    <state width="1630" height="357" key="GridCell.Tab.0.bottom" timestamp="1613231886098">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1630" height="357" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231696174" />
-    <state width="1630" height="357" key="GridCell.Tab.0.center" timestamp="1613231696174">
+    <state width="1630" height="357" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231886098" />
+    <state width="1630" height="357" key="GridCell.Tab.0.center" timestamp="1613231886098">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1630" height="357" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231696174" />
-    <state width="1630" height="357" key="GridCell.Tab.0.left" timestamp="1613231696174">
+    <state width="1630" height="357" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231886098" />
+    <state width="1630" height="357" key="GridCell.Tab.0.left" timestamp="1613231886098">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1630" height="357" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231696174" />
-    <state width="1630" height="357" key="GridCell.Tab.0.right" timestamp="1613231696174">
+    <state width="1630" height="357" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231886098" />
+    <state width="1630" height="357" key="GridCell.Tab.0.right" timestamp="1613231886098">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state width="1630" height="357" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231696174" />
+    <state width="1630" height="357" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231886098" />
     <state width="949" height="386" key="GridCell.Tab.1.bottom" timestamp="1613231443037">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
@@ -218,6 +227,10 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="949" height="386" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613231443037" />
+    <state x="2472" y="312" key="Vcs.Push.Dialog.v2" timestamp="1613233718570">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2472" y="312" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1613233718570" />
     <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1613055898560">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>

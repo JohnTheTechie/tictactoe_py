@@ -17,7 +17,7 @@ class ListenerInterface:
     def __init__(self):
         pass
 
-    def update(self):
+    def update(self, listener):
         """
         function will be called by the BaseListener whenever event occurs
         :return: None
@@ -102,6 +102,23 @@ class OnCellUpdatedListener(BaseListener, metaclass=Singleton):
         BaseListener.__init__(self, is_raw_call=False)
 
 
+class CellUpdateListenerInterface(ListenerInterface):
+    """
+    any class registering to OnCellUpdatedListener, must extend this class
+    and override on_cell_updated function
+    """
+    def update(self, listener):
+        self.on_cell_updated(listener)
+
+    def on_cell_updated(self, listener):
+        """
+        to be overridden by the registering class
+        :param listener: object ref to calling listener
+        :return: None
+        """
+        raise NotImplemented
+
+
 class OnDiceRolledListener(BaseListener, metaclass=Singleton):
     """
     listener class for dice roll events
@@ -110,6 +127,24 @@ class OnDiceRolledListener(BaseListener, metaclass=Singleton):
 
     def __init__(self):
         BaseListener.__init__(self, is_raw_call=False)
+
+
+class DiceRollListenerInterface(ListenerInterface):
+    """
+    any class registering to OnCellUpdatedListener, must extend this class
+    and override on_dice_rolled function
+    """
+
+    def update(self, listener):
+        self.on_dice_rolled(listener)
+
+    def on_dice_rolled(self, listener):
+        """
+        to be overridden by the registering class
+        :param listener: object ref to calling listener
+        :return: None
+        """
+        raise NotImplemented
 
 
 class OnPlayerSwitchedListener(BaseListener, metaclass=Singleton):
@@ -123,3 +158,21 @@ class OnPlayerSwitchedListener(BaseListener, metaclass=Singleton):
 
     def __init__(self):
         BaseListener.__init__(self, is_raw_call=False)
+
+
+class PlayerSwitchListenerInterface(ListenerInterface):
+    """
+    any class registering to OnCellUpdatedListener, must extend this class
+    and override on_player_turn_switched function
+    """
+
+    def update(self, listener):
+        self.on_player_turn_switched(listener)
+
+    def on_player_turn_switched(self, listener):
+        """
+        to be overridden by the registering class
+        :param listener: object ref to calling listener
+        :return: None
+        """
+        raise NotImplemented
